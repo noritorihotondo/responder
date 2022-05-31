@@ -1,0 +1,7 @@
+upload/
+!**/*/upload/
+node_modules
+dist
+*.tar.gz
+*.env
+!env-local.env
